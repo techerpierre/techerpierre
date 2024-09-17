@@ -16,10 +16,10 @@
 <h2>The technologies I use</h2>
 
 <table style="border-collapse: collapse; background: none;">
-    <tr>
+    <tr style="border: none;">
         <td style="border: none;">
             <table style="border-collapse: collapse; background: none;">
-                <tr>
+                <tr style="border: none;">
                     <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/js-logo.png" alt="javascript logo">
                     </td>
