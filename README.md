@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I am a young computer science student passionate about software creation, web development and more generally programming. Currently, I work with languages such as **Go**, **JavaScript**/**TypeScript**, and **Python**. I am also learning C to further enhance my skills. My goal is ambitious: to design and build an operating system for PC, using C or Rust as the primary languages.
+I am a young computer science student passionate about software creation, web development and more generally programming. Currently, I work with languages such as **Go**, **JavaScript**/**TypeScript**, and **Python**. I am also learning **C** to further enhance my skills. My goal is ambitious: to design and build an operating system for PC, using C or Rust as the primary languages.
 
 
 ## 🛠 Skills
