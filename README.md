@@ -6,34 +6,34 @@
 
 <h2>The technologies I use</h2>
 
-<div class="technologies">
-    <div class="technologie">
+<div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Javascript<p>
-        <img class="thumbnail" src="./assets/js-logo.png" alt="javascript logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/js-logo.png" alt="javascript logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Typescript<p>
-        <img class="thumbnail" src="./assets/ts-logo.png" alt="typecript logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/ts-logo.png" alt="typecript logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Golang<p>
-        <img class="thumbnail" src="./assets/go-logo.png" alt="golang logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/go-logo.png" alt="golang logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Node js<p>
-        <img class="thumbnail" src="./assets/nodejs-logo.jpg" alt="node js logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/nodejs-logo.jpg" alt="node js logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Nest js<p>
-        <img class="thumbnail" src="./assets/nestjs-logo.png" alt="nest js logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/nestjs-logo.png" alt="nest js logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>React js<p>
-        <img class="thumbnail" src="./assets/react-logo.png" alt="react js logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/react-logo.png" alt="react js logo">
     </div>
-    <div class="technologie">
+    <div style="display: flex;flex: 1;flex-direction: row-reverse;align-items: center;gap: 10px;width: fit-content;">
         <p>Next js<p>
-        <img class="thumbnail" src="./assets/nextjs-logo.jpg" alt="next js logo">
+        <img style="border-radius: 5px;width: 30px;height: 30px;object-fit: cover;" src="./assets/nextjs-logo.jpg" alt="next js logo">
     </div>
 </div>
 
