@@ -1,124 +1,29 @@
-<h1>Pierre Techer Github 👋</h1>
 
-<h2>About me</h2>
+# Pierre Techer 👋
 
-<p>
-    I am a young computer science student passionate about 
-    <span style="font-weight: bold">software creation</span>, 
-    <span style="font-weight: bold">web development</span> and more generally 
-    <span style="font-weight: bold">programming</span>. Currently, I work with languages such as 
-    <span style="font-weight: bold">Go</span>, 
-    <span style="font-weight: bold">JavaScript/TypeScript</span>, and 
-    <span style="font-weight: bold">Python</span>. I am also learning 
-    <span style="font-weight: bold">C</span> to further enhance my skills. My goal is ambitious: to design and build an operating system for PC, using C or Rust as the primary languages.
-</p>
 
-<h2>The technologies I use</h2>
 
-<table style="border-collapse: collapse; background: none;">
-    <tr style="border: none;">
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr style="border: none;">
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/js-logo.png" alt="javascript logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>JavaScript</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/ts-logo.png" alt="typescript logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>TypeScript</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/go-logo.png" alt="golang logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>Golang</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nodejs-logo.jpg" alt="node js logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>Node.js</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nestjs-logo.png" alt="nestjs logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>Nest.js</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/react-logo.png" alt="react js logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>React.js</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td style="border: none;">
-            <table style="border-collapse: collapse; background: none;">
-                <tr>
-                    <td style="border: none;">
-                        <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nextjs-logo.jpg" alt="next js logo">
-                    </td>
-                    <td style="border: none;">
-                        <p>Next.js</p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
+## 🚀 About Me
+I am a young computer science student passionate about software creation, web development and more generally programming. Currently, I work with languages such as **Go**, **JavaScript**/**TypeScript**, and **Python**. I am also learning C to further enhance my skills. My goal is ambitious: to design and build an operating system for PC, using C or Rust as the primary languages.
 
-<!--
-**techerpierre/techerpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+**Langagues**: HTML, CSS, JavaScript, TypeScript, Golang, Python ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools**: Node, React, Next, Nest, Prisma, Mongodb ...
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
