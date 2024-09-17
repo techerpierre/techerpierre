@@ -15,39 +15,39 @@
 
 <h2>The technologies I use</h2>
 
-<table>
+<table style="border-collapse: collapse; background: none;">
     <tr>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/js-logo.png" alt="javascript logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>JavaScript</p>
                     </td>
                 </tr>
             </table>
         </td>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/ts-logo.png" alt="typescript logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>TypeScript</p>
                     </td>
                 </tr>
             </table>
         </td>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/go-logo.png" alt="golang logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>Golang</p>
                     </td>
                 </tr>
@@ -55,37 +55,37 @@
         </td>
     </tr>
     <tr>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nodejs-logo.jpg" alt="node js logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>Node.js</p>
                     </td>
                 </tr>
             </table>
         </td>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nestjs-logo.png" alt="nestjs logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>Nest.js</p>
                     </td>
                 </tr>
             </table>
         </td>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/react-logo.png" alt="react js logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>React.js</p>
                     </td>
                 </tr>
@@ -93,13 +93,13 @@
         </td>
     </tr>
     <tr>
-        <td>
-            <table>
+        <td style="border: none;">
+            <table style="border-collapse: collapse; background: none;">
                 <tr>
-                    <td>
+                    <td style="border: none;">
                         <img style="border-radius: 5px; width: 30px; height: 30px; object-fit: cover;" src="./assets/nextjs-logo.jpg" alt="next js logo">
                     </td>
-                    <td>
+                    <td style="border: none;">
                         <p>Next.js</p>
                     </td>
                 </tr>
