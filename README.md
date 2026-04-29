@@ -6,6 +6,11 @@
 ## 🚀 About Me
 I am a young computer science student passionate about software creation, web development and more generally programming. Currently, I work with languages such as **Go**, **JavaScript**/**TypeScript**, and **Python**. I am also learning **C** to further enhance my skills.
 
+## 🎓Education (Level 5 RNCP)
+- **Intégrateur Web** | OpenClassrooms
+  - July 2024 – May 2025
+  - Formation focused on building modern user interfaces, SEO optimization, and mastering JavaScript frameworks.
+
 
 ## 🛠 Skills
 **Langagues**: HTML, CSS, JavaScript, TypeScript, Golang, Python ...
